@@ -1,0 +1,27 @@
+{
+  "name": "@elizaos/plugin-loralab",
+  "version": "0.1.0",
+  "description": "LoraLab image generation plugin for elizaOS",
+  "type": "module",
+  "platform": "universal",
+  "runtimeVersion": "1.0.0-beta.49",
+  "repository": "github:ta-da-dev/plugin-loralab",
+  "maintainers": [
+    "ta-da-dev"
+  ],
+  "publishedAt": "2025-05-12T07:43:29.690Z",
+  "publishedBy": "ta-da-dev",
+  "dependencies": {
+    "@elizaos/cli": "beta",
+    "@elizaos/core": "beta",
+    "node-fetch": "^3.3.2",
+    "zod": "3.24.2"
+  },
+  "tags": [
+    "plugin",
+    "elizaos",
+    "image-generation",
+    "loralab"
+  ],
+  "license": "UNLICENSED"
+}

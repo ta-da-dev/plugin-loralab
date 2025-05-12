@@ -1,0 +1,23 @@
+{
+  "v1": {
+    "packages": {}
+  },
+  "v2": {
+    "packages": {
+      "@elizaos/plugin-loralab": {
+        "name": "@elizaos/plugin-loralab",
+        "description": "LoraLab image generation plugin for elizaOS",
+        "type": "module",
+        "versions": {
+          "0.1.0": {
+            "version": "0.1.0",
+            "runtimeVersion": "1.0.0-beta.49",
+            "platform": "universal",
+            "publishedAt": "2025-05-12T07:43:29.690Z",
+            "published": false
+          }
+        }
+      }
+    }
+  }
+}
